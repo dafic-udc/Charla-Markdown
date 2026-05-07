@@ -74,7 +74,8 @@ Referencias a cualquier punto:
 Notas al pié[^1]
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Notas y un montón de cosas!
+
 <!-- comentario oculto -->
 
 [^1]: Esto es\
