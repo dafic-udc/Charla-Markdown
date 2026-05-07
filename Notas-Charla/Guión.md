@@ -80,8 +80,13 @@ Notas al pié[^1]
 
 <!-- comentario oculto -->
 
+## Avanzado
+
+Generar HTML a partir de Markdown:
+`pandoc archivo.md -o archivo.html`
+O con GFM:
+`pandoc archivo.md -o archivo.html --standalone --from gfm`
+
 [^1]: Esto es\
 una nota al pié
-
-
 
