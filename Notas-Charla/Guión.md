@@ -55,10 +55,6 @@ Texto<ins>subrayado</ins>\
 print("Código con sintaxis!")
 ```
 
-Colores:
-`#326E76`
-`#0969DA`
-
 Referencias a secciones:
 [Principio](#guion)
 
