@@ -6,14 +6,9 @@ Contenido del repositorio
 
 📁 /
 ├── README.md
-├── slides/
-│   └── presentacion.pdf
-├── ejemplos/
-│   ├── basico.md
-│   ├── avanzado.md
-│   └── cheatsheet.md
-└── recursos.md
-
+├── LICENSE
+├── Vault-Obsidian      # Vault de ejemplo
+└── Carpeta-de-ejemplo  # Carpeta con archivos .md de ejemplo
 
 Sobre la charla
 
