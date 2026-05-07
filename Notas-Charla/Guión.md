@@ -73,7 +73,8 @@ Referencias a cualquier punto:
 
 Notas al pié[^1]
 
-[!NOTE] Notas y un montón de cosas
+> [!NOTE] Notas y un montón de cosas
+> Hola
 
 <!-- comentario oculto -->
 
