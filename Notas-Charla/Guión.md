@@ -78,9 +78,9 @@ Notas al pié[^1]
 
 ## Avanzado
 
-Generar HTML a partir de Markdown:
-`pandoc archivo.md -o archivo.html`
-O con GFM:
+Generar HTML a partir de Markdown:\
+`pandoc archivo.md -o archivo.html --standalone`\
+O con GFM:\
 `pandoc archivo.md -o archivo.html --standalone --from gfm`
 
 [^1]: Esto es\
