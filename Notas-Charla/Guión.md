@@ -6,6 +6,7 @@ se utiliza ampliamente en mensajería, modelos de lenguaje, documentación y
 blogs.
 
 ## Sintaxis básica
+
 Texto plano
 *Texto en cursiva*
 **Texto en negrita**
@@ -28,6 +29,56 @@ Separador horizontal:
 
 > Cuotas
 
+
+` ` `
+Bloques de código!
+```
+
 [Enlaces](https://youtu.be/dQw4w9WgXcQ?si=Fv08Z9AnTsz2Jhdi)
 
 ![Imágenes](../resources/Logo_DAFIC_redondo.svg)
+
+## Arreglando el README.md del repositorio
+
+## Obsidian
+
+## Logseq
+
+## Github Flavoured Markdown
+
+Sub<sub>texto</sub>
+Super<sup>texto</sup>
+Texto<ins>subrayado</ins>
+
+```python
+print("Código con sintaxis!")
+```
+
+Colores:
+`#326e76`
+
+Referencias a secciones:
+[Principio](#guion)
+
+Referencia a archivos
+[README](#../README.md)
+
+Referencias a cualquier punto:
+
+<a name="referencia-cualquiera"></a>
+[Cualquier referencia](#referencia-cualquiera)
+
+- [ ] Tareas
+- [x] Tareas completadas
+
+Notas al pié[^1]
+
+[!NOTE] Notas y un montón de cosas
+
+<!-- comentario oculto -->
+
+[^1]: Esto es\
+una nota al pié
+
+
+
