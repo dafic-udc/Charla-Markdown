@@ -49,15 +49,11 @@ Bloques de código!
 Emojis! :smile:\
 Sub<sub>texto</sub>\
 Super<sup>texto</sup>\
-Texto<ins>subrayado</ins>\
+Texto<ins>subrayado</ins>
 
 ```python
 print("Código con sintaxis!")
 ```
-
-Colores:
-`#326E76`
-`#RRGGBB`
 
 Referencias a secciones:
 [Principio](#guion)
