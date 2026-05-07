@@ -42,7 +42,8 @@ Recursos mencionados en la charla
 CommonMark https://commonmark.org — especificación estándar de Markdown
 Markdown Guide https://www.markdownguide.org — referencia completa
 Obsidian https://obsidian.md/ - Editor de código Markdown
-Logseq https://logseq.com/ - Fork de Obsidian
+Logseq https://logseq.com/ - Fork de Obsidian basado en notas estructuradas
+Github Flavoured Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Especificación de github para Markdown
 
 Licencia
 
