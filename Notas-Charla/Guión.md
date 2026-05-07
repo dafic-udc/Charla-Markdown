@@ -57,7 +57,7 @@ print("Código con sintaxis!")
 
 Colores:
 `#326E76`
-`#RRGGBB`
+`#0969DA`
 
 Referencias a secciones:
 [Principio](#guion)
