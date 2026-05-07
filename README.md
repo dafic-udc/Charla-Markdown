@@ -7,6 +7,8 @@ Contenido del repositorio
 📁 /
 ├── README.md
 ├── LICENSE
+├── resources
+|	└── Logo_DAFIC_redondo.svg
 ├── Vault-Obsidian      # Vault de ejemplo
 └── Carpeta-de-ejemplo  # Carpeta con archivos .md de ejemplo
 
