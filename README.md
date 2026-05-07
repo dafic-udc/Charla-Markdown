@@ -32,7 +32,7 @@ Cómo usar este repositorio
 
 Puedes clonar el repositorio con:
 
-git clone https://github.com/[organizacion]/charla-markdown
+https://github.com/dafic-udc/charla-markdown-gpul-2026
 
 Los ejemplos en ejemplos/ están pensados para seguirse en orden durante
 la charla, aunque son autoexplicativos si los lees después.
