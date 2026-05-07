@@ -1,9 +1,10 @@
-Charla-Markdown
+# Charla-Markdown
 
-Este es el repositorio de archivos de ejemplo para la charla impartida por DAFIC y GPUL el 7 de Mayo de 2026
+Este es el repositorio de archivos de ejemplo para la charla impartida por DAFIC y GPUL el *7 de Mayo de 2026*
 
-Contenido del repositorio
+## Contenido del repositorio
 
+```
 📁 /
 ├── README.md
 ├── LICENSE
@@ -11,24 +12,25 @@ Contenido del repositorio
 |	└── Logo_DAFIC_redondo.svg
 ├── Vault-Obsidian      # Vault de ejemplo
 └── Carpeta-de-ejemplo  # Carpeta con archivos .md de ejemplo
+```
 
-Sobre la charla
+## Sobre la charla
 
-Esta charla es una introducción práctica a Markdown: qué es, para qué sirve
+Esta charla es una introducción práctica a **Markdown**: qué es, para qué sirve
 y cómo usarlo en el día a día para escribir documentación, notas y contenido web.
 
-Duración: ~1 hora  
-Nivel: Principiante  
-Impartida por: Daniel Feito Pin y Julio de Lis Barbeito Suárez
+- *Duración*: ~1 hora  
+- *Nivel*: Principiante  
+- *Impartida por*: Daniel Feito Pin y Julio de Lis Barbeito Suárez
 
-Temario
+##Temario
 
-1 Markdown como alternativa al texto plano
-2 Sintaxis básica: encabezados, énfasis y listas 
-3 Herramientas: Obsidian y Logseq
-4 Sintaxis extendida: tablas, enlaces, bloques de código e imágenes
+1. Markdown como alternativa al texto plano
+2. Sintaxis básica: encabezados, énfasis y listas 
+3. Herramientas: Obsidian y Logseq
+4. Sintaxis extendida: tablas, enlaces, bloques de código e imágenes
 
-Cómo usar este repositorio
+## Cómo usar este repositorio
 
 Puedes clonar el repositorio con:
 
@@ -37,18 +39,18 @@ https://github.com/dafic-udc/charla-markdown-gpul-2026
 Los ejemplos en ejemplos/ están pensados para seguirse en orden durante
 la charla, aunque son autoexplicativos si los lees después.
 
-Recursos mencionados en la charla
+## Recursos mencionados en la charla
 
-CommonMark https://commonmark.org — especificación estándar de Markdown
-Markdown Guide https://www.markdownguide.org — referencia completa
-Obsidian https://obsidian.md/ - Editor de código Markdown
-Logseq https://logseq.com/ - Herramienta de notas con grafos de conocimiento
-Github Flavoured Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Especificación de github para Markdown
+- CommonMark https://commonmark.org — especificación estándar de Markdown
+- Markdown Guide https://www.markdownguide.org — referencia completa
+- Obsidian https://obsidian.md/ - Editor de código Markdown
+- Logseq https://logseq.com/ - Herramienta de notas con grafos de conocimiento
+- Github Flavoured Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Especificación de github para Markdown
 
-Licencia
+## Licencia
 
 El contenido de este repositorio se distribuye bajo licencia
 CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
-Puedes usarlo, adaptarlo y redistribuirlo citando la fuente.
+Puedes usarlo, adaptarlo y redistribuirlo citando la fuente para fines no comerciales.
 
 DAFIC · Facultade de Informática · dafic.org
