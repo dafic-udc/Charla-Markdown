@@ -32,7 +32,7 @@ Cómo usar este repositorio
 
 Puedes clonar el repositorio con:
 
-git clone https://github.com/[organizacion]/charla-markdown
+https://github.com/dafic-udc/charla-markdown-gpul-2026
 
 Los ejemplos en ejemplos/ están pensados para seguirse en orden durante
 la charla, aunque son autoexplicativos si los lees después.
@@ -42,7 +42,7 @@ Recursos mencionados en la charla
 CommonMark https://commonmark.org — especificación estándar de Markdown
 Markdown Guide https://www.markdownguide.org — referencia completa
 Obsidian https://obsidian.md/ - Editor de código Markdown
-Logseq https://logseq.com/ - Fork de Obsidian basado en notas estructuradas
+Logseq https://logseq.com/ - Herramienta de notas con grafos de conocimiento
 Github Flavoured Markdown https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax - Especificación de github para Markdown
 
 Licencia

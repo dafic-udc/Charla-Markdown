@@ -42,7 +42,7 @@ y cómo usarlo en el día a día para escribir documentación, notas y contenido
 Puedes clonar el repositorio con:
 
 ```bash
-git clone https://github.com/[organizacion]/charla-markdown
+https://github.com/dafic-udc/charla-markdown-gpul-2026
 ```
 
 Los ejemplos en `ejemplos/` están pensados para seguirse en orden durante
