@@ -46,9 +46,10 @@ Bloques de código!
 
 ## Github Flavoured Markdown
 
-Sub<sub>texto</sub>
-Super<sup>texto</sup>
-Texto<ins>subrayado</ins>
+Emojis! :smile:\
+Sub<sub>texto</sub>\
+Super<sup>texto</sup>\
+Texto<ins>subrayado</ins>\
 
 ```python
 print("Código con sintaxis!")
