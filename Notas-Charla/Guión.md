@@ -30,7 +30,7 @@ Separador horizontal:
 > Cuotas
 
 
-` ` `
+```
 Bloques de código!
 ```
 
